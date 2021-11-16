@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{9787F868-52BF-4109-902F-518CC0309236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{0CEA8A4D-55D2-494D-84A1-5956600CE021}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{F994078B-92D2-4EFD-83BC-B04640F5BC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9787F868-52BF-4109-902F-518CC0309236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9787F868-52BF-4109-902F-518CC0309236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9787F868-52BF-4109-902F-518CC0309236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9787F868-52BF-4109-902F-518CC0309236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CEA8A4D-55D2-494D-84A1-5956600CE021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CEA8A4D-55D2-494D-84A1-5956600CE021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CEA8A4D-55D2-494D-84A1-5956600CE021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CEA8A4D-55D2-494D-84A1-5956600CE021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F994078B-92D2-4EFD-83BC-B04640F5BC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F994078B-92D2-4EFD-83BC-B04640F5BC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F994078B-92D2-4EFD-83BC-B04640F5BC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F994078B-92D2-4EFD-83BC-B04640F5BC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {605A220F-6033-4FFF-A503-AB004C863474}
+	EndGlobalSection
+EndGlobal
